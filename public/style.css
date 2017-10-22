@@ -5,12 +5,11 @@ body {
 	font-size: 16px;
 	color: #222;
 	background-color: #ECF0F1;
-	text-align: center;
 }
 
 .container {
 	padding: 0;
-	margin-top: 40px;
+	margin: 40px 40px;
 }
 
 .footer {
